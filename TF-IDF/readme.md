@@ -18,5 +18,6 @@ $TF-IDF=TF*IDF$
 1. 生成文本向量
 2. 提取关键词
 
-基于jieba和Gensim实现了TF-IDF，并通过TF-IDF进行关键词提取和doc2vec转换
+基于jieba和Gensim实现了TF-IDF，并通过TF-IDF进行关键词提取和doc2vec转换。
+
 下载[数据集](http://thuctc.thunlp.org/#%E8%8E%B7%E5%8F%96%E9%93%BE%E6%8E%A5 )并解压至corups目录
